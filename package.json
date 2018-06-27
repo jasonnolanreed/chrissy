@@ -1,0 +1,20 @@
+{
+  "name": "chrissy",
+  "version": "1.1.0",
+  "description": "",
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jasonnolanreed/chrissy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.2.2"
+  },
+  "scripts": {
+    "serve": "./node_modules/.bin/lite-server",
+    "ssh": "ssh -p 2222 thereed@192.185.63.150",
+    "deploy": "./scripts/deploy.sh"
+  }
+}
