@@ -4,4 +4,4 @@ This is a completely static resume website with no javascript, so there is no bu
 
 To run local server, use `npm run serve`
 
-To push changes to GitHub pages, where prod is hosted for free, use `npm run deploy`
+GitHub Pages hosts the webiste for free, and it's always up to date with the master branch.
